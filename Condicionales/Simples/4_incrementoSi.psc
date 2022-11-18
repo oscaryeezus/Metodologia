@@ -14,7 +14,7 @@ Proceso incrementoSi
 	FinSi
 	
 	si salary > 0 Entonces
-		Escribir "Nuevo salario: "salary*1.25;
+		Escribir "Nuevo salario: ",salary*1.25;
 	FinSi
 	
 FinProceso
